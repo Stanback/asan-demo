@@ -1,4 +1,4 @@
-# Address-Sanitizer Demo Project
+# Address-Sanitizer Demo Project (Still In Progress)
 
 This a quick example for how to use the address sanitizer to discover
 various programming errors in C and C++.
