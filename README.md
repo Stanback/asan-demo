@@ -1,3 +1,11 @@
+> **Archived — October 16, 2026**
+>
+> This unfinished AddressSanitizer teaching example is preserved for historical reference. Its build instructions and toolchain guidance are no longer maintained.
+>
+> Source and history remain available for reference; no further updates or support are planned.
+
+---
+
 # Address-Sanitizer Demo Project (Still In Progress)
 
 This a quick example for how to use the address sanitizer to discover
